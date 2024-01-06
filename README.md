@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 - I am a Data Analyst with a technical background
-- I truly love to study new tools and tricks in programming and statistics
+- I truly love to study new tools and tricks in programming and math
 
 ---
 
